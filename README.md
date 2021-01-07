@@ -1,3 +1,5 @@
+**Projenin çalışması için App.config dosyaları içerisindeki veritabanı konfigürasyon işlemlerinin doğru bir şekilde yapılması gerekir.**
+
 1.	Hava durumu sorgulama istemcisi;  
 a.	Sorgulama başlatabilmek için konsoldan bir şehir ismi okunur.  
 b.	Alınan şehir ismi ile bir sorgulama isteği oluşturur ve DB’ye kayıt edilir. (Castle.ActiveRecord & NHibernate)  
